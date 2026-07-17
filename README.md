@@ -1,5 +1,7 @@
-📊 SQL Analysis of E-commerce Sales Dataset
+#*📊 SQL Analysis of E-commerce Sales Dataset*#
+
 Project Overview:
+
 This project was completed as part of my Data Analyst Internship at DecodeLabs. The objective was to use SQL to analyze an e-commerce sales dataset and extract meaningful business insights.
 
 The project focused on applying fundamental SQL concepts to answer business questions and summarize customer purchasing behavior.
